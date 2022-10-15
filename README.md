@@ -8,7 +8,7 @@ Aplikasi ini berfungsi untuk mengukur lamanya waktu yang telah berlalu atau yang
 - Expo Constants
 
 ## Cara Menginstall dan Menjalankan Aplikasi
-1. Clone repositori ini.
+1. Clone repositori ini atau [Download ZIP](https://github.com/BobbyJulianAkbar/Stopwatch/archive/refs/heads/master.zip).
 2. Pastikan anda telah memiliki Node.js versi LTS. Jika belum [KLIK DI SINI](https://nodejs.org/en/).
 3. Salin kode dibawah lalu tekan enter.
 ```
