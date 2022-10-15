@@ -19,6 +19,6 @@ npm install
 ```
 expo start
 ```
-6. setelah itu akan muncuk barcode, silahkan scan menggunakan smartphone atau tekan `w` untuk menjalankan lewat web.
+6. Setelah itu akan muncul barcode, silahkan scan menggunakan smartphone atau tekan `w` untuk menjalankan lewat web.
 
 # SELAMAT MENCOBA :+1:
