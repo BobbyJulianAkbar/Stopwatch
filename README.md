@@ -11,7 +11,7 @@ Aplikasi ini berfungsi untuk mengukur lamanya waktu yang telah berlalu atau yang
 1. Buka CLI anda *(Windows Powershell atau setaranya)*.
 2. Clone repositori ini atau [Download ZIP](https://github.com/BobbyJulianAkbar/Stopwatch/archive/refs/heads/master.zip).
 3. Pastikan anda telah memiliki Node.js versi LTS. Jika belum [KLIK DI SINI](https://nodejs.org/en/).
-4. Salin kode dibawah lalu tekan enter.
+4. Salin kode dibawah dan tekan enter.
 ```
 npm install
 ```
