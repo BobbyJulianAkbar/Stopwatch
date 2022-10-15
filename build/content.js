@@ -8,12 +8,12 @@ export const displayTime = (centiseconds) => {
         centiseconds = 0;
     }
 
-    if (centiseconds < 70) {
+    if (centiseconds < 100) {
         return `00:00:${Counter(centiseconds)}`;
     }
 
-    let remainCentiseconds = centiseconds % 70;
-    seconds = (centiseconds - remainCentiseconds) / 70;
+    let remainCentiseconds = centiseconds % 100;
+    seconds = (centiseconds - remainCentiseconds) / 100;
 
     if ( seconds < 60) {
         return `00:${Counter(seconds)}:${Counter(remainCentiseconds)}`;
